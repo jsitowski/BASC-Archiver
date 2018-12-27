@@ -8,8 +8,6 @@ This uses Keybase, so
 
 Instructions (for now):
 
---if you haven't installed thread-archiver yet--
-
 pip install basc-thread-archiver
 
 apt install xclip
