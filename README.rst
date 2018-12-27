@@ -4,6 +4,8 @@ A fork of BASC-Thread-Archiver, for Linux only (currently).
 
 Props to freenode/#bash for helping me work this out, as well as BASC themselves of course.
 
+To be added next: 4channel fix, method for editing folder names to include subject, python/ruby script for CLI thread browser
+
 This uses Keybase, so
 
 Instructions (for now):
