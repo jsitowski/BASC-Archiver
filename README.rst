@@ -1,6 +1,6 @@
 BASCk(Basc-Thread-Archiver + Keybase + xclip)
 
-A fork of BASC-Thread-Archiver, for Linux only (currently). 
+A fork of BASC-Thread-Archiver, for Linux only (currently). Just a script/series of instructions now, more or less.
 
 Props to freenode/#bash for helping me work this out, as well as BASC themselves of course.
 
