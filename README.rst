@@ -6,6 +6,8 @@ Props to freenode/#bash for helping me work this out, as well as BASC themselves
 
 To be added next: 4channel fix, method for editing folder names to include subject, python/ruby script for CLI thread browser
 
+example: https://keybase.pub/jsitowski/Web/4chan/
+
 This uses Keybase, so
 
 Instructions (for now):
